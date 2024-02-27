@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: devopsorg3aks.azurecr.io/customngx
+          image: devopsorg3aks.azurecr.io/aksfirstdevops
           ports:
             - containerPort: 80
 ---
